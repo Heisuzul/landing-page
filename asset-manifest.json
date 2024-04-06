@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/landing-page/static/css/main.eb3840de.css",
+    "main.js": "/landing-page/static/js/main.ee96d86d.js",
+    "static/media/Eva01.png": "/landing-page/static/media/Eva01.47e1413fb6ee1602fac9.png",
+    "index.html": "/landing-page/index.html",
+    "main.eb3840de.css.map": "/landing-page/static/css/main.eb3840de.css.map",
+    "main.ee96d86d.js.map": "/landing-page/static/js/main.ee96d86d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb3840de.css",
+    "static/js/main.ee96d86d.js"
+  ]
+}
